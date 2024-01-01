@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url("imgg.jpeg");
+  backdrop-filter: blur(10px);
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.box {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  background-color: #f7f7f7;
+}
